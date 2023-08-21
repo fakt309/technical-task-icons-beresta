@@ -1,0 +1,35 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30">
+	<!-- <rect x="0" y="0" width="30" height="30" stroke="#ff0000" fill="transparent"></rect> -->
+
+	<g stroke="#ffffff">
+		<path
+			stroke-width="2px"
+			stroke-linecap="round"
+			fill="transparent"
+			stroke-linejoin="round"
+			d="M 5,15
+			C 10,5 20,5 25,15
+			"
+		/>
+
+		<path
+			stroke-width="2px"
+			stroke-linecap="round"
+			fill="transparent"
+			stroke-linejoin="round"
+			d="M 5,15
+			C 10,25 20,25 25,15
+			"
+		/>
+
+	</g>
+
+	<g fill="#ffffff">
+		<circle
+			cx="15"
+			cy="15"
+			r="5"
+			stroke-width="0"
+		/>
+	</g>
+</svg>

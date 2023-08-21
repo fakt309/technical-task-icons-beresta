@@ -1,0 +1,35 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 40">
+	<!-- <rect x="0" y="0" width="20" height="40" stroke="#ff0000" fill="transparent"></rect> -->
+
+	<g stroke="#ffffff">
+		<line
+			x1="10"
+			y1="30"
+			x2="10"
+			y2="10"
+			stroke-width="2px"
+			stroke-linecap="round"
+			fill="transparent"
+		/>
+
+		<line
+			x1="10"
+			y1="30"
+			x2="5"
+			y2="25"
+			stroke-width="2px"
+			stroke-linecap="round"
+			fill="transparent"
+		/>
+
+		<line
+			x1="10"
+			y1="30"
+			x2="15"
+			y2="25"
+			stroke-width="2px"
+			stroke-linecap="round"
+			fill="transparent"
+		/>
+	</g>
+</svg>

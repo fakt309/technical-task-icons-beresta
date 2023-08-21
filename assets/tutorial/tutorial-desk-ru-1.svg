@@ -1,0 +1,269 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+<!-- translateX(800px) translateY(2500px) -->
+	<defs>
+		<style type="text/css">
+	  		@keyframes cursor {
+			    0% {
+			        transform: translateX(1500px) translateY(1500px);
+			    }
+			    5% {
+			        transform: translateX(710px) translateY(430px);
+			    }
+			    20% {
+			        transform: translateX(710px) translateY(430px);
+			    }
+			    25% {
+			        transform: translateX(1500px) translateY(1500px);
+			    }
+			    100% {
+			    	transform: translateX(1500px) translateY(1500px);
+			    }
+			}
+
+			@keyframes correct {
+			    0% {
+			        opacity: 0;
+			    }
+			    5% {
+			        opacity: 0;
+			    }
+			    7% {
+			        opacity: 1;
+			    }
+			    18% {
+			        opacity: 1;
+			    }
+			    20% {
+			        opacity: 0;
+			    }
+			    100% {
+			    	opacity: 0;
+			    }
+			}
+
+			@keyframes eenter {
+			    0% {
+			        opacity: 0;
+			    }
+			    10% {
+			        opacity: 0;
+			    }
+			    15% {
+			        opacity: 1;
+			    }
+			    20% {
+			        opacity: 1;
+			    }
+			    25% {
+			        opacity: 0;
+			    }
+			    100% {
+			    	opacity: 0;
+			    }
+			}
+
+			@keyframes textdown {
+				0% {
+			        transform: translateX(0px) translateY(0px);
+			    }
+			    15% {
+			        transform: translateX(0px) translateY(0px);
+			    }
+			    20% {
+			        transform: translateX(0px) translateY(100px);
+			    }
+			    100% {
+			    	transform: translateX(0px) translateY(100px);
+			    }
+			}
+
+			@keyframes textopacity {
+			    0% {
+			        opacity: 0;
+			    }
+			    18% {
+			        opacity: 0;
+			    }
+			    23% {
+			        opacity: 0.3;
+			    }
+			    100% {
+			    	opacity: 0.3;
+			    }
+			}
+		</style>
+	</defs>
+
+	<rect
+		x="0"
+		y="0"
+		width="1920"
+		height="1080"
+		fill="#443c34"
+		stroke="transparent"
+		stroke-width="0"
+	/>
+
+	<g 
+		style="font-family:'Noto Sans', sans-serif;font-size:35px;text-align:center;font-weight:100"
+	>
+		<text
+			x="400"
+			y="440"
+			alignment-baseline="baseline"
+			fill="#ffffff"
+		>
+			Списать домашку
+		</text>
+
+		<g
+			style="animation-name:textdown;animation-duration:5s;animation-timing-function:linear;animation-iteration-count:infinite;"
+		>
+			<text
+				x="400"
+				y="540"
+				alignment-baseline="baseline"
+				fill="#ffffff"
+			>
+				Записать тик ток
+			</text>
+
+			<text
+				x="400"
+				y="640"
+				alignment-baseline="baseline"
+				fill="#ffffff"
+			>
+				Посмотреть стрим бравл старс
+			</text>
+		</g>
+
+		<!-- <text
+				x="560"
+				y="150"
+				alignment-baseline="baseline"
+				fill="#ffffff33"
+				style="animation-name:textopacity;animation-duration:5s;animation-timing-function:linear;animation-iteration-count:infinite;"
+			>
+				Новая заметка
+		</text> -->
+	</g>
+
+	<rect
+		x="700"
+		y="400"
+		width="2"
+		height="50"
+		fill="#ffffff"
+		style="animation-name:correct;animation-duration:5s;animation-timing-function:linear;animation-iteration-count:infinite;"
+	/>
+
+	<text
+		x="900"
+		y="980"
+		alignment-baseline="baseline"
+		fill="#ffffff"
+		style="font-family:'Noto Sans', sans-serif;font-size:150px;text-align:center;font-weight:800;animation-name:eenter;animation-duration:5s;animation-timing-function:linear;animation-iteration-count:infinite;"
+	>↵</text>
+
+	<g
+		stroke="#000"
+		style="animation-name:cursor;animation-duration:5s;animation-timing-function:linear;animation-iteration-count:infinite;"
+	>
+		<path d="m208.75 191.7-206.25-186.08v257.06l60.104-60.428 65.295 126.61h55.97l-71.515-137.16h96.396z" transform="scale(0.15)" fill="#fff" fill-rule="evenodd" stroke-linecap="square" stroke-miterlimit="10" stroke-width="5"/>
+	</g>
+
+	<text
+		x="400"
+		y="540"
+		alignment-baseline="baseline"
+		fill="#ffffff"
+		style="font-family:'Noto Sans', sans-serif;font-size:35px;text-align:center;font-weight:100;animation-name:textopacity;animation-duration:5s;animation-timing-function:linear;animation-iteration-count:infinite;"
+	>
+		Новая заметка
+	</text>
+
+	<g transform="translate(1350, 380)">
+		<g transform="translate(-80 0) scale(2)">
+			<line stroke="#ffffff" x1="10" y1="23" x2="18" y2="30" stroke-width="2px" stroke-linecap="round" fill="transparent" />
+			<line stroke="#ffffff" x1="18" y1="30" x2="30" y2="15" stroke-width="2px" stroke-linecap="round" fill="transparent" />
+		</g>
+
+		<g transform="translate(0 6) scale(2)">
+			<line x1="13" y1="13" x2="27" y2="27" stroke-width="2px" stroke-linecap="round" stroke="#ffffff" fill="transparent" />
+			<line x1="27" y1="13" x2="13" y2="27" stroke-width="2px" stroke-linecap="round" stroke="#ffffff" fill="transparent" />
+		</g>
+
+		
+
+		<g transform="translate(80 -2) scale(2)">
+			<line x1="15" y1="18" x2="35" y2="18" stroke-width="2px" stroke-linecap="round" stroke="#ffffff" fill="transparent" />
+			<line x1="15" y1="25" x2="35" y2="25" stroke-width="2px" stroke-linecap="round" stroke="#ffffff" fill="transparent" />
+			<line x1="15" y1="32" x2="35" y2="32" stroke-width="2px" stroke-linecap="round" stroke="#ffffff" fill="transparent" />
+		</g>
+	</g>
+
+	<g transform="translate(1350, 480)" style="animation-name:textopacity;animation-duration:5s;animation-timing-function:linear;animation-iteration-count:infinite;">
+		<g transform="translate(-80 0) scale(2)">
+			<line stroke="#ffffff" x1="10" y1="23" x2="18" y2="30" stroke-width="2px" stroke-linecap="round" fill="transparent" />
+			<line stroke="#ffffff" x1="18" y1="30" x2="30" y2="15" stroke-width="2px" stroke-linecap="round" fill="transparent" />
+		</g>
+
+		<g transform="translate(0 6) scale(2)">
+			<line x1="13" y1="13" x2="27" y2="27" stroke-width="2px" stroke-linecap="round" stroke="#ffffff" fill="transparent" />
+			<line x1="27" y1="13" x2="13" y2="27" stroke-width="2px" stroke-linecap="round" stroke="#ffffff" fill="transparent" />
+		</g>
+
+		
+
+		<g transform="translate(80 -2) scale(2)">
+			<line x1="15" y1="18" x2="35" y2="18" stroke-width="2px" stroke-linecap="round" stroke="#ffffff" fill="transparent" />
+			<line x1="15" y1="25" x2="35" y2="25" stroke-width="2px" stroke-linecap="round" stroke="#ffffff" fill="transparent" />
+			<line x1="15" y1="32" x2="35" y2="32" stroke-width="2px" stroke-linecap="round" stroke="#ffffff" fill="transparent" />
+		</g>
+	</g>
+
+	<g style="animation-name:textdown;animation-duration:5s;animation-timing-function:linear;animation-iteration-count:infinite;">
+
+		<g transform="translate(1350, 480)">
+			<g transform="translate(-80 0) scale(2)">
+				<line stroke="#ffffff" x1="10" y1="23" x2="18" y2="30" stroke-width="2px" stroke-linecap="round" fill="transparent" />
+				<line stroke="#ffffff" x1="18" y1="30" x2="30" y2="15" stroke-width="2px" stroke-linecap="round" fill="transparent" />
+			</g>
+
+			<g transform="translate(0 6) scale(2)">
+				<line x1="13" y1="13" x2="27" y2="27" stroke-width="2px" stroke-linecap="round" stroke="#ffffff" fill="transparent" />
+				<line x1="27" y1="13" x2="13" y2="27" stroke-width="2px" stroke-linecap="round" stroke="#ffffff" fill="transparent" />
+			</g>
+
+			
+
+			<g transform="translate(80 -2) scale(2)">
+				<line x1="15" y1="18" x2="35" y2="18" stroke-width="2px" stroke-linecap="round" stroke="#ffffff" fill="transparent" />
+				<line x1="15" y1="25" x2="35" y2="25" stroke-width="2px" stroke-linecap="round" stroke="#ffffff" fill="transparent" />
+				<line x1="15" y1="32" x2="35" y2="32" stroke-width="2px" stroke-linecap="round" stroke="#ffffff" fill="transparent" />
+			</g>
+		</g>
+
+		<g transform="translate(1350, 580)">
+			<g transform="translate(-80 0) scale(2)">
+				<line stroke="#ffffff" x1="10" y1="23" x2="18" y2="30" stroke-width="2px" stroke-linecap="round" fill="transparent" />
+				<line stroke="#ffffff" x1="18" y1="30" x2="30" y2="15" stroke-width="2px" stroke-linecap="round" fill="transparent" />
+			</g>
+
+			<g transform="translate(0 6) scale(2)">
+				<line x1="13" y1="13" x2="27" y2="27" stroke-width="2px" stroke-linecap="round" stroke="#ffffff" fill="transparent" />
+				<line x1="27" y1="13" x2="13" y2="27" stroke-width="2px" stroke-linecap="round" stroke="#ffffff" fill="transparent" />
+			</g>
+
+			
+
+			<g transform="translate(80 -2) scale(2)">
+				<line x1="15" y1="18" x2="35" y2="18" stroke-width="2px" stroke-linecap="round" stroke="#ffffff" fill="transparent" />
+				<line x1="15" y1="25" x2="35" y2="25" stroke-width="2px" stroke-linecap="round" stroke="#ffffff" fill="transparent" />
+				<line x1="15" y1="32" x2="35" y2="32" stroke-width="2px" stroke-linecap="round" stroke="#ffffff" fill="transparent" />
+			</g>
+		</g>
+	</g>
+
+</svg>
