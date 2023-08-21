@@ -1,6 +1,6 @@
 <svg viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img"  preserveAspectRatio="xMidYMid meet">
 
-	<rect fill="#473C33" x="0" y="0" width="36" height="36"></rect>
+	<!-- <rect fill="#473C33" x="0" y="0" width="36" height="36"></rect> -->
 
 	<path fill="#ffffff" d="M0 10s0-4 4-4h28s4 0 4 4v18s0 4-4 4H4s-4 0-4-4V10z"></path>
 
