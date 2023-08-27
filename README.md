@@ -30,8 +30,8 @@
 Сначала кандидат отрисовывает 4 картинки:
 - assets/colored/stickers/flashCamera.svg
 - assets/tutorial/tutorial-ru-1.svg
-- assets/tutorial/qr.svg
-- assets/tutorial/phone.svg
+- assets/icons/qr.svg
+- assets/icons/phone.svg
 
 Если понравится, то отрисовываем все остальные картинки, выплачиваю полностью сумму.
 Если НЕ понравится, то выплачивается символическая сумма за выполненную работу и я ищу другого кандидата.
